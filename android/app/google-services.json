@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "161480551738",
+    "project_id": "cinemagicnews-d44ee",
+    "storage_bucket": "cinemagicnews-d44ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161480551738:android:70ebaad43a172ef3bd7403",
+        "android_client_info": {
+          "package_name": "com.example.cinemagic22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161480551738-ane7hr68smlsrct77pujf72d3540ts9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinemagic22",
+            "certificate_hash": "046ec4cd87f61be7cf62c3ebe7149315e3f24eae"
+          }
+        },
+        {
+          "client_id": "161480551738-l5s5f6lat6m6qi92m0t257d3n2v2fgvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa17ci5RgPrBeAvvfuFmKx_tmYwNM7Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161480551738-l5s5f6lat6m6qi92m0t257d3n2v2fgvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

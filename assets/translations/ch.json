@@ -1,0 +1,91 @@
+﻿{
+
+  "welcome to": "欢迎",
+  "login to continue": "登录继续",
+  "welcome-intro": "Explore the latest news and events happening in the world in minutes. Subscribe and get notified of all of our articles & share them with your friends..",
+  "skip": "跳跃",
+
+  "don't have an account?": "别理账户",
+  "create": "创造",
+  "create account": "创造账户",
+  "login": "登录",
+  "login to access all features": "登录接入全面貌",
+  "follow the simple steps": "随的简单步",
+  "already have an account?": "已有帐户",
+
+  "search contents": "搜新闻",
+  "popular contents": "热门新闻",
+  "recent contents": "最新消息",
+  "view all": "意见全部",
+
+  "search": "搜索",
+  "search for contents": "搜新闻",
+  "recent searches": "近况搜",
+  "search-description": "你还没有凡是的项目搜? */n 我们会帮助你 ",
+  "try again": "再式一次",
+  "categories": "Categories",
+
+  "clear all": "清所有",
+  "bookmark is empty": "你的书签是空的",
+  "save your favourite contents here": "Save your favourite news here",
+  "added to your bookamrk": "添加你的书签",
+
+  "no categories found": "No categories found",
+  "no contents found": "No artiles found",
+  "no internet": "没有网络连接",
+  "check your internet connection!": "查你的网络连接",
+  "contents you might love": "Articles you might love",
+
+  "comments": "评论",
+  "view comments": "View Comments",
+  "write a comment": "写一个评论",
+  "no comments found": "No comments found",
+  "be the first to comment": "Be the first to comment",
+  "login to make comments": "登录造评论",
+  "comment success title": "论",
+  "comment success description": "论",
+  "you can't delete others comment": "论",
+  "you can't edit others comment": "论",
+  "update comment": "更新评论",
+
+  "delete": "删除",
+  "update": "更新",
+
+  "notifications": "通知",
+  "notification details": "通知详情",
+  "no notification title": "论",
+  "no notification description": "论.",
+
+  "settings": "场合",
+  "general settings": "论",
+  "social settings": "论",
+  "about app": "论",
+  "dark mode": "论",
+  "get notifications": "论",
+  "contact us": "论",
+  "rate this app": "Rate this app",
+  "licence": "Licence",
+  "privacy policy": "论",
+  "about us": "论",
+  "logout": "Logout",
+  "our website": "Our Website",
+  "facebook page": "Facebook Page",
+  "youtube channel": "Youtube Channel",
+
+  "logout title": "Logout from the app?",
+  "logout description": "Do you really want to logout from the app? You will lose all of your saved data. Continue?",
+
+  "language": "Language",
+  "select language": "Select Language",
+
+  "explore": "Explore",
+  "videos": "Videos",
+  "video contents": "Video Articles",
+  "twitter": "Twitter",
+  "bookmark": "Bookmark",
+  "bookmarks": "Bookmarks"
+
+
+
+
+}

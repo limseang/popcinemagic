@@ -1,0 +1,98 @@
+{
+
+  "welcome to": "ស្វាគមន៍មកកាន់",
+  "login to continue": "ចូលទៅគណនីដើម្បីបន្តរ",
+  "welcome-intro": "មិនដឹង",
+  "skip": "រំលង",
+  "Cinemagickh": "មន្តស្នេហ៍ភាពយន្ត",
+  "NEWS_APP": "កម្មវិធីពត៌មានភាពយន្ត",
+
+  "don't have an account?": "ពុំមានគណនីមែនទេ?",
+  "create": "បង្កើត",
+  "create account": "បង្កើតគណនី",
+  "login": "ចូលទៅគណនី",
+  "login to access all features": "ចូលទៅគណនីដើម្បីប្រើមុខងារទាំងអស់",
+  "follow the simple steps": "គ្រាន់តែធ្វើតាមវិធីងាយៗបន្មានជំហានតែប៉ុណ្ណោះ",
+  "already have an account?": "មានគណនីហើយមែនទេ?",
+
+  "search contents": "ស្វែងរកពត៌មាន",
+  "popular contents": "ពត៌មានកំពុងពេញនិយម",
+  "recent contents": "ពត៌មានចុងក្រោយបង្អស់",
+  "view all": "មើលទាំងអស់",
+
+  "search": "ស្វែងរក",
+  "search for contents": "ស្វែងរកពត៌មាន",
+  "recent searches": "ធ្លាប់ស្វែងរកហើយ",
+  "search-description": "លោកអ្នកពុំធ្លាប់ស្វែងរកពត៌មានពីមុនទេ \n សាកល្បងឥឡូវនេះ",
+  "try again": "សាកល្បងម្តងទៀត!!",
+  "categories": "ប្រភេទ",
+
+  "clear all": "លុបចោលទាំងអស់",
+  "bookmark is empty": "អ្នកពុំមានកំណត់ចំណាំទេ!",
+  "save your favourite contents here": "រក្សារពត៌មានដែលអ្នកចូលចិត្ត",
+  "added to your bookmark": "រក្សារទុកនូវកំណត់ចំណាំ",
+
+  "no categories found": "ពុំមានប្រភេទនេះទេ",
+  "no VIDEO found": "ពុំមានវីដេអូទេ",
+  "no internet": "ដាច់អ៊ីនធើណេតហើយ!",
+  "check your internet connection": "សាកពិនិត្យមើលអ៊ីនធើណេតអ្នកមើល!",
+  "contents you might love": "ពត៌រមានដែលអ្នកនិងចូលចិត្ត",
+
+  "comments": "មតិយោបល់",
+  "view comments": "មើលមតិយោលប់",
+  "write a comment": "សរសេរមតិយោបល់",
+  "no comments found": "គ្មានមតិយោបល់ទេ",
+  "be the first to comment": "បញ្ចេញមតិយោបល់មុនគេ",
+  "login to make comments": "ចូលគណនីដើម្បីបញ្ចេញមតិយោបល់",
+  "comment success title": "ការបញ្ចេញមតិយោបល់បានជោគជ័យ",
+  "comment success description": "អគុណសម្រាប់ការបញ្ចេញមតិយោបល់របស់អ្នក",
+  "you can't delete others comment": "អ្នកពុំអាចលុបចោលមតិយោបល់អ្នកដទៃបានទេ",
+  "you can't edit others comment": "អ្នកពុំអាចកែប្រែមតិយោបល់របស់អ្នកផ្សេងបានទេ",
+  "update comment": "កែរប្រែមតិយោបល់",
+
+  "delete": "លប់ចោល",
+  "update": "កែរប្រែ",
+
+  "notifications": "ការជូនដំណឹង",
+  "notification details": "ពត៌មាននៃការជូនដំណឹង",
+  "no notification title": "ពុំមានការជូនដំណឹងទេ!",
+  "no notification description": "អ្នកពុំមានការជូនដំណឹងនោះទេ ។ ត្រូវប្រាកដថាអ្នកបានបើកការជូនដំណឹងនៅក្នុង មុខងារជុសជុល",
+
+  "settings": "មុខងារជុសជុល",
+  "general settings": "មុខងារជុសជុលធម្មតា",
+  "social settings": "មុខងារទំនាក់ទំនងផ្នែកបណ្តាញសង្គម",
+  "about app": "ពត៌មានទាក់ទងនឹងកម្មវិធី",
+  "dark mode": "មុខងារងងឹត",
+  "get notifications": "ទទួលបានការជូនដំណឹង",
+  "contact us": "ទំនាក់ទំនងមកកាន់ពួកយើង",
+  "rate this app": "អោយពិន្ទុកម្មវិធីមួយនេះ",
+  "licence": "អាជ្ញាប័ណ្ណ",
+  "privacy policy": "គោលការណ៍ភាពឯកជន",
+  "about us": "អំពីពួកយើង",
+  "logout": "ចេញពីគនី",
+  "our website": "គេហទំព័ររបស់ពួកយើង",
+  "facebook page": "ទំព័រ Facebook",
+  "youtube channel": "ទំព័រ Youtube",
+
+  "logout title": "អ្នកចង់ចេញពីគណនីមែនទេ?",
+  "logout description": "តើអ្នកពិតជាចង់ចេញពីគណនីមែនទេ? អ្នកនិងបាត់បង់ទិន្ទ័យទាំងអស់នៅក្នុងគណនីរបស់អ្នកក្រោយពេលចាកចេញ ។",
+
+  "language": "ភាសារ",
+  "select language": "ជ្រើសរើសភាសារ",
+
+  "explore": "ចុងក្រោយ",
+  "Local": "ក្នុងស្រុក",
+  "HollyWood": "ហូលីហ្វូត",
+  "Korean": "កូរ៉េ",
+  "Chinese": "ចិន",
+  "videos": "វីដេអូ",
+  "video contents": "ទំព័រវីដេអូ",
+  "twitter": "Twitter",
+  "bookmark": "កំណត់ចំណាំ",
+  "bookmarks": "កំណត់ចំណាំ"
+
+
+
+
+
+}

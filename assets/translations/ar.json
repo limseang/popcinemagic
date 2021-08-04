@@ -1,0 +1,90 @@
+{
+
+  "welcome to": "សូមស្វាគមន៍មកកាន់",
+  "login to continue " "ចូលទៅកាន់គណនី\",",
+  "welcome-intro": "ការណែណាំខ្លួន",
+  "skip": "រំលង",
+
+  "don't have an account?": "ពុំមានគនណីមែនទេ?",
+  "create": "បង្កើត",
+  "create account": "បង្កើតគណនី",
+  "login": "ចូលទៅកាន់គណនី",
+  "login to access all features": "ចូលទៅក្នុងគណនីដើម្បីប្រើប្រាស់មុខងារទាំងអស់របស់កម្មវិធី",
+  "follow the simple steps": "ដោយគ្រាន់តែធ្វើតាមជំហ៊ានដ៏ងាយស្រួលខាងក្រោមតែប៉ុណ្ណោះ",
+  "already have an account?": "មានគណនីហើយមែនទេ?",
+
+  "search contents": "ស្វែងរកគណនី",
+  "popular contents": "គណនីដែលមានការចាប់អារម្មណ៍ច្រើន",
+  "recent contents": "គណនីដែលធ្លាប់ស្វែងរក",
+  "view all": "មើលទាំងអស់",
+
+  "search": "ស្វែងរក",
+  "search for contents": "ស្វែងរកគណនី",
+  "recent searches": "ប្រវត្តិនៃការស្វែងរក",
+  "search-description": "ពណ៌នាពីកាស្វែងរក",
+  "try again": "ព្យាយាមម្តងទៀត",
+  "categories": "",
+
+  "clear all": "លុបចោលទាំងអស់ ",
+  "bookmark is empty": "ពុំមានការកំណត់ចំណាំ",
+  "save your favourite contents here": "រក្សារទុកនូវឈ្មោះគណនីដែលអ្នកចូលចិត្តនៅទីនេះ",
+  "added to your bookmark": "ដាក់ចូលទៅកន្លែងកំណត់ចំណាំ",
+
+  "no categories found": "لم يتم العثور على فئات",
+  "no contents found": "لم يتم العثور على وصفات",
+  "no internet": "لا يوجد اتصال بالإنترنت!",
+  "check your internet connection!": "تحقق من اتصالك بالإنترنت!",
+  "contents you might love": "مقالات قد تحبها",
+
+  "comments": "تعليقات",
+  "view comments": "تعليقات عرض",
+  "write a comment": "أكتب تعليقا",
+  "no comments found": "لا توجد تعليقات",
+  "be the first to comment": "كن أول من يعلق",
+  "login to make comments": "تسجيل الدخول لإبداء التعليقات",
+  "comment success title": "تم إرسال التعليق بنجاح",
+  "comment success description": "تم تقديم تعليقك للمراجعة. سترى تعليقك في هذه القائمة بعد المراجعة.\nشكرا",
+  "you can't delete others comment": "لا يمكنك حذف تعليق الآخرين",
+  "you can't edit others comment": "لا يمكنك تعديل تعليق الآخرين",
+  "update comment": "تحديث التعليق",
+
+  "delete": "حذف",
+  "update": "تحديث",
+
+  "notifications": "إشعارات",
+  "notification details": "تفاصيل الإخطار",
+  "no notification title": "لم يتم العثور على إخطارات!",
+  "no notification description": "لم تتلق أي إخطارات حتى الآن. تأكد من تشغيل الإخطارات من الإعدادات.",
+
+  "settings": "إعدادات",
+  "general settings": "الاعدادات العامة",
+  "social settings": "الوضع الاجتماعي",
+  "about app": "حول التطبيق",
+  "dark mode": "الوضع المظلم",
+  "get notifications": "الحصول على الإشعارات",
+  "contact us": "اتصل بنا",
+  "rate this app": "قيم هذا التطبيق",
+  "licence": "رخصة",
+  "privacy policy": "سياسة الخصوصية",
+  "about us": "معلومات عنا",
+  "logout": "تسجيل خروج",
+  "our website": "موقعنا",
+  "facebook page": "صفحة الفيسبوك",
+  "youtube channel": "قناة يوتيوب",
+
+  "logout title": "هل تريد الخروج من التطبيق؟",
+  "logout description": "هل تريد حقًا تسجيل الخروج من التطبيق؟ ستفقد جميع البيانات المحفوظة الخاصة بك. يكمل؟",
+
+  "language": "لغة",
+  "select language": "اختار اللغة",
+
+  "explore": "يستكشف",
+  "videos": "أشرطة فيديو",
+  "video contents": "مقالات الفيديو",
+  "twitter": "تويتر",
+  "bookmark": "المرجعية",
+  "bookmarks": "إشارات مرجعية"
+
+
+
+}
